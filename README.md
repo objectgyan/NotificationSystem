@@ -166,5 +166,3 @@ To remove all jobs related to a specific loyalty program, use the `/campaigneven
 This project is licensed under the MIT License.
 
 ---
-
-This README provides an overview of the project, its features, and instructions for setting up and using the application. It focuses on the concepts and how-to aspects, making it easier for users to understand and get started with the project.
