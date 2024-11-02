@@ -141,7 +141,7 @@ Jobs can be managed and removed based on specific criteria, such as loyalty prog
    dotnet run
    ```
 
-5. **Access the Hangfire Dashboard**: Open your web browser and navigate to `http://localhost:5000/hangfire` to access the Hangfire Dashboard.
+5. **Access the Hangfire Dashboard**: Open your web browser and navigate to `http://localhost:7167/hangfire` to access the Hangfire Dashboard.
 
 ### Scheduling Drip Campaign Events
 
